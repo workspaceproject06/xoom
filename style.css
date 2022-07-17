@@ -1,0 +1,32 @@
+body h1,h2,h3 p{
+font-family:poppins;
+}
+
+/*NAVBAR */
+.navbar-default{
+border:0px !important;
+background: #3c1a1f96 !important;
+}
+.navbar-default li a {
+color:#fff !important;
+font-family:poppins !important;
+}
+.navbar-brand{
+color:#fff !important;
+}
+h1{
+color:red;
+font-family:verdana !important;
+font-size:30px;
+}
+/*Main image*/	
+.hero-image img {
+width: 100%; /* Set width to 100% */
+margin: auto;
+height:500px !important;
+}
+
+.thumbnail{
+border:none;
+margin-top : 30px;	
+}
